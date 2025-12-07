@@ -1,0 +1,13 @@
+{
+    "users": [],
+    "cases": [],
+    "research_materials": [],
+    "dispute_resolutions": [],
+    "analytics": {
+        "resolution_rate": 68.5,
+        "avg_processing_days": 45,
+        "total_cases": 150,
+        "active_cases": 80,
+        "resolved_cases": 70
+    }
+}
